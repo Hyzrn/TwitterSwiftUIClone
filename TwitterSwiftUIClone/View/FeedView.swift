@@ -12,7 +12,7 @@ struct FeedView: View {
         ZStack(alignment: .bottomTrailing) {
           
             ScrollView {
-                
+                 
             }
             
             Button(action: {}, label: {
